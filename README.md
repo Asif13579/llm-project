@@ -46,7 +46,7 @@ unl-ai/
 
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
-git clone https://github.com/your-username/unl-ai.git
+git clone https://github.com/Asif13579/llm-project.git
 cd unl-ai
 
 2️⃣ Create Virtual Environment
